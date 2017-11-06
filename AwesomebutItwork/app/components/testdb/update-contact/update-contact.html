@@ -1,0 +1,11 @@
+<ActionBar title="update contact" class="action-bar">
+	
+</ActionBar>
+
+<StackLayout class="update-contact" orientation="vertical">
+	<Image style="width: 25%;margin-top: 3%" src="~/images/contact.png"></Image> 
+	<Label text="{{address.username}}" style="size:20px"></Label> 
+	<TextField   [(ngModel)]="address.number" text="{{address.number}}"></TextField>
+	<Button text="update" (tap)="updateContact()"></Button>
+	<Button text="cancel" (tap)="cancel()"></Button>
+</StackLayout>

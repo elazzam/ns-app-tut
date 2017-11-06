@@ -1,0 +1,7 @@
+<ActionBar title="Login" > </ActionBar>
+<StackLayout class="page" orientation="vertical">
+	<Image style="width: 25%;margin-top: 3%" src="~/images/apple.jpg"></Image>
+	<TextField hint="username" [(ngModel)]="credentials.username"></TextField>
+	<TextField hint="password" [(ngModel)]="credentials.password" secure="true"></TextField>
+	<Button text="Login" (tap)="login()"></Button>
+</StackLayout>

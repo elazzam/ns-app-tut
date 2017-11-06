@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\elazzam\\eclipse-workspace-js\\AwesomebutItwork\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "C:\\Users\\elazzam\\eclipse-workspace-js\\AwesomebutItwork\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\elazzam\\eclipse-workspace-js\\AwesomebutItwork\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\background.png",
+        "source": "C:\\Users\\elazzam\\eclipse-workspace-js\\AwesomebutItwork\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\elazzam\\eclipse-workspace-js\\AwesomebutItwork\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "C:\\Users\\elazzam\\eclipse-workspace-js\\AwesomebutItwork\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    }
+]

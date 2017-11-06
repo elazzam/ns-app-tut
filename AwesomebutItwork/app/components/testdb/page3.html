@@ -1,0 +1,14 @@
+<ActionBar title="page 3" >
+	<NavigationButton text=" Back" ></NavigationButton>
+	<Button text="new Contact" (tap)="addContact()"></Button>
+</ActionBar>
+<StackLayout>
+	<ListView [items]="listAddressBook" >
+		<ng-template let-contact="item" let-even="even" let-odd="odd" let-name="username" >
+			<StackLayout [class.even]="even" [class.odd]="odd"  (tap)="selected(contact.username,contact.number)" >
+				<label [text]='"Name: " + contact.username'></label>
+				<label [text]='"@ " + contact.number'></label>
+			</StackLayout>
+		</ng-template>
+	</ListView>
+</StackLayout>

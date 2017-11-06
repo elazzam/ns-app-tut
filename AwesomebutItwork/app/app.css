@@ -1,0 +1,23 @@
+@import "nativescript-theme-core/css/core.light.css";
+
+Page {
+	background-color: white;
+	font-size: 18px;	
+}
+
+TextField {
+	margin: 10px;
+	padding: 10px;
+}
+
+Button {
+	margin: 10px;
+	padding: 10px;
+}
+
+ListView {
+	margin: 10px;
+	padding: 10px;
+	font-size: 20px;
+	height: 100%;
+}
