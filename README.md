@@ -1,10 +1,9 @@
 # ns-app-tut
 # Nativescript Angular Web Starter
-A simple starter project to create native mobile and web apps with single shared code base using angular and nativescript.
+A simple starter project to create native mobile and web apps with single shared code base using angular2 and nativescript.
 
-[![YouTube demo](http://ngxp.io/wp-content/product-previews/nativescript-angular-web-starter/nativescript-angular-web-starter.png)](https://youtu.be/NJ1oOEIdXVk "YouTube demo")
-
-Check this [Open Souce Cross Platform Quotes Application](https://github.com/shripalsoni04/ngxp-quotes-app) for reference, which is made with the exact same architecture as this starter project.  
+[![YouTube demo](http://tiepthithegioi.vn/wp-content/uploads/2017/03/Youtube_advertising_Google_AdWords.png)](https://www.youtube.com/watch?v=rsCT5fpES4Q "YouTube demo")
+ 
 
 ## Prerequisites
 1. Globally installed Nativecript  - `npm install -g nativescript`
